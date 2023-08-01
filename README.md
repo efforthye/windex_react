@@ -12,7 +12,7 @@ flowchart LR
     Test[Test]
     Publish[Publish]
     A[Front]
-    B[Back]
+    B[Back] 
     C[BlockChain]
     D[NextJs & Redux]
     E[AWS EC2 S3, Docker, MongoDB]
