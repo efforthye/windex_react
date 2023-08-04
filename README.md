@@ -22,7 +22,7 @@ flowchart LR
     J[Publish]
     Part-->R&D-->Make-->Test-->Publish
     A-->D-->I[UI/UX]-->H
-    B-->E-->G 
+    B-->E-->G  
     C-->F-->G-->H-->J
 ```
 
