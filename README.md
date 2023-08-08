@@ -11,7 +11,7 @@ flowchart LR
     Make[Make]
     Test[Test] 
     Publish[Publish]
-    A[Front] 
+    A[Front]  
     B[Back]  
     C[BlockChain]
     D[NextJs & Redux]   
