@@ -16,7 +16,7 @@ flowchart LR
     C[BlockChain]
     D[NextJs & Redux]   
     E[AWS EC2 S3, Docker, MongoDB]
-    F[HUT SmartContract]
+    F[HUT SmartContract] 
     G[connect & design DB]
     H[Unit Test]
     J[Publish]
