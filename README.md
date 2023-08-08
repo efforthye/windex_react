@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart LR
-    Part[Part]
+    Part[Part] 
     R&D[R&D]
     Make[Make]
     Test[Test] 
