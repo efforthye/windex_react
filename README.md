@@ -9,7 +9,7 @@ flowchart LR
     Part[Part] 
     R&D[R&D]
     Make[Make]
-    Test[Test] 
+    Test[Test]  
     Publish[Publish]
     A[Front]  
     B[Back]  
