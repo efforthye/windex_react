@@ -18,7 +18,7 @@ flowchart LR
     E[AWS EC2 S3, Docker, MongoDB]
     F[HUT SmartContract] 
     G[connect & design DB]
-    H[Unit Test]
+    H[Unit Test] 
     J[Publish]
     Part-->R&D-->Make-->Test-->Publish
     A-->D-->I[UI/UX]-->H
