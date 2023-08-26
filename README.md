@@ -10,7 +10,7 @@ flowchart LR
     R&D[R&D]
     Make[Make]
     Test[Test]  
-    Publish[Publish]
+    Publish[Publish] 
     A[Front]  
     B[Back]  
     C[BlockChain]
