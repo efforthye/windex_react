@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3433ff,50:20bdff,100:a5fecb&height=230&section=header&text=WinDex&fontSize=70&animation=fadeIn&fontColor=eeeeee&fontAlignY=40&fontAlign=75&stroke=ffffff&strokeWidth=1" />
 
 # 프로젝트 진행
-
+ 
 ```mermaid
 flowchart LR
     Part[Part] 
