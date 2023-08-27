@@ -5,7 +5,7 @@
 # 프로젝트 진행
  
 ```mermaid
-flowchart LR
+flowchart LR 
     Part[Part]  
     R&D[R&D]
     Make[Make]
