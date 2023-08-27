@@ -8,7 +8,7 @@
 flowchart LR 
     Part[Part]  
     R&D[R&D]
-    Make[Make]
+    Make[Make] 
     Test[Test]  
     Publish[Publish] 
     A[Front]    
