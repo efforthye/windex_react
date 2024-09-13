@@ -42,7 +42,7 @@ flowchart LR
 
 # 팀원 소개
 
-<div>팀장 : 박혜림 - Back-End</div>
+<div>팀장 : 박혜림 - Back-End & Blockchain</div>
 <div>팀원 : 정재훈 - Blockchain</div>
 <div>팀원 : 김정규 - Front-End</div>
 <div>팀원 : 허재원 - Front-End</div>
