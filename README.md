@@ -35,7 +35,7 @@ flowchart LR
 <br />
 
 개요 : 웹기반 NFT 마켓 플레이스 및 NFT스테이킹 & 토큰 스왑 및 거래 플랫폼
-목표 : Polygon Matic을 자체 Token인 HUT으로 Swap 할 수 있는 환경을 구축하고 위스키 NFT를 Staking 하여 HUT를 보상해주는 DEX 사이트를 만들어 AWS에 배포해 보는 것이 목표입니다.
+목표 : Polygon Matic을 자체 Token인 HUT으로 Swap 할 수 있는 환경을 구축하고 위스키 NFT를 Staking 하여 HUT를 보상해주는 DEX 사이트를 만들어 AWS에 배포
 
 <br />
 <br />
